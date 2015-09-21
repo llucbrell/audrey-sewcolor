@@ -1,6 +1,6 @@
 # audrey-sewcolor
 
-> Seed for audrey-two VCCLI (View-Control-Command-Line-Interface) ^v2.0.0
+> Seed for [audrey-two](https://www.npmjs.com/package/audrey-two) VCCLI (View-Control-Command-Line-Interface) ^v2.0.0
 
 
 ## What this seed does?
@@ -45,5 +45,5 @@ audrey.feed("E01","I'm an eror..");
  *  "   "     "     "   "  "E"-->   "    "  red
  *  "   "     "     "   "  "S"-->   "    "  green
  */
-audrey.talk();//run audrey to display view
+audrey.encore();//run audrey to display view
 ```
