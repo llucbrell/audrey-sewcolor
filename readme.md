@@ -34,7 +34,7 @@ var myTerminalDisplay={
 };
 
 var audrey2= require('audrey-two');
-var audrey= audrey2(myTerminalDisplay);
+var audrey= audrey2('nameOfView', myTerminalDisplay);
 
 //run your command and pass error objects to audrey
 
